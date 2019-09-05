@@ -1,0 +1,106 @@
+{
+    "staff": [
+        {
+            "name": "John Smith",
+            "totalSales": 250,
+            "salesPeriod": 10,
+            "experienceMultiplier": 0.5
+        },
+        {
+            "name": "David Prowless",
+            "totalSales": 250,
+            "salesPeriod": 10,
+            "experienceMultiplier": 0.5
+        },
+        {
+            "name": "Stefan Mandradzhiyski",
+            "totalSales": 300,
+            "salesPeriod": 5,
+            "experienceMultiplier": 0.5
+        },
+        {
+            "name": "Stephen Ivanov",
+            "totalSales": 150,
+            "salesPeriod": 11,
+            "experienceMultiplier": 0.9
+        },
+        {
+            "name": "Nikola Nikolov",
+            "totalSales": 240,
+            "salesPeriod": 11,
+            "experienceMultiplier": 0.7
+        },
+        {
+            "name": "Svetlana Caracarova",
+            "totalSales": 190,
+            "salesPeriod": 10,
+            "experienceMultiplier": 0.4
+        },
+        {
+            "name": "Tihomir Tihomirov",
+            "totalSales": 225,
+            "salesPeriod": 8,
+            "experienceMultiplier": 0.6
+        },
+        {
+            "name": "Philip Philipov",
+            "totalSales": 150,
+            "salesPeriod": 7,
+            "experienceMultiplier": 0.2
+        },
+        {
+            "name": "Milena Milenova",
+            "totalSales": 260,
+            "salesPeriod": 11,
+            "experienceMultiplier": 0.7
+        },
+        {
+            "name": "Cvetelina Cvetelinova",
+            "totalSales": 280,
+            "salesPeriod": 5,
+            "experienceMultiplier": 0.6
+        },
+        {
+            "name": "Lubomirov Lubomirov",
+            "totalSales": 210,
+            "salesPeriod": 9,
+            "experienceMultiplier": 0.9
+        },
+        {
+            "name": "Menka Menkova",
+            "totalSales": 120,
+            "salesPeriod": 15,
+            "experienceMultiplier": 1
+        },
+        {
+            "name": "Petur Petrov",
+            "totalSales": 167,
+            "salesPeriod": 23,
+            "experienceMultiplier": 0.8
+        },
+        {
+            "name": "Samuil Samuilov",
+            "totalSales": 155,
+            "salesPeriod": 18,
+            "experienceMultiplier": 0.3
+        },
+        {
+            "name": "Iosif Iosifov",
+            "totalSales": 200,
+            "salesPeriod": 10,
+            "experienceMultiplier": 0.8
+        },
+        {
+            "name": "Aleksandur Aleksandrov",
+            "totalSales": 270,
+            "salesPeriod": 11,
+            "experienceMultiplier": 0.4
+        },
+        {
+            "name": "Sasho Sashov",
+            "totalSales": 260,
+            "salesPeriod": 12,
+            "experienceMultiplier": 0.8
+        }
+    ]
+}
